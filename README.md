@@ -1,7 +1,9 @@
 Hi 👋 My name is Bjorn
+
 ======================
 
 Senior Engineer / Frontend Architect / Trainer & Speaker
+
 --------------------------------------------------------
 
 Coding for at least 15 years. Enjoy working with Angular, RxJS, TypeScript, Nx, NestJS, and so on. Interested in almost anything tech related. Made a few games for game jams. Streams over at https://twitch.tv/Bjeaurn

@@ -8,7 +8,7 @@ Coding for at least 15 years. Enjoy working with Angular, RxJS, TypeScript, Nx, 
 
 *   🌍  I'm based in The Netherlands
 *   🚀  I'm currently working on [Teamgrid](http://teamgrid.co)
-*   🧠  I'm learning Astro, AnalogJS, Deno, Deno Fresh.
+*   🧠  I'm learning Astro, AnalogJS, Deno, Deno Fresh and Rust.
 *   🤝  I'm open to collaborating on anything Angular related!
 
 <a href="https://www.x.com/Bjeaurn" target="_blank" rel="noreferrer"><img
